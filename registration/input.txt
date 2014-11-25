@@ -1,0 +1,42 @@
+Full Name *
+Fathers Name*
+Mothers Name*
+DOB*
+Email*
+Phone*
+Phone 2
+Address*
+Zip*
+City (Drop Down)*
+State (Drop Down)*
+Country (Drop down)*
+Sex*
+Religion*
+
+Academic Qualification:(*)
+SSC - Grade - GPA - Board - Group - Institution
+HSC - do
+Bachelor: Grade - GPA - Course - University / Institution
+Masters  Do
+Higher Degree - MPhil, PhD with detail
+
+Training History (Not mandatory)
+1) Training 1
+2) Training 2
+
+Job Experience
+1) Name of Org, - Designation - Tenure (from and to)
+2) do
+3) do
+4) do
+
+Specialization: Telecom, Banking, Teaching, HR, IT, Networking, Research etc
+
+Type: Freelancer, Consultancy, Part timer, Contractual, Full time, Project basis
+
+Picture Upload: (JPG,PNG) Max 3MB (profile pic must be kept with unique name)
+
+Upload CV (Max 5MB) (CV must be kept with unique name to avoid conflict)
+Allowed format DOC, PDF
+
+Note:(Textbox)
